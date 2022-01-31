@@ -1,7 +1,7 @@
 git clone https://github.com/Mohirbeck/vue-lesson.git\
 cd vue-lesson\
 npm install\
-npm run serve\
+npm run serve
 
 #for yarn users\
 git clone https://github.com/Mohirbeck/vue-lesson.git\
